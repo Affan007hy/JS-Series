@@ -1,10 +1,6 @@
 ## Chatpter 1
 # Introduction To JavaScript
 ## **What is JavaScript**
-- **JavaScript** is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies.
-
-Or
-
 - **JavaScript** (often abbreviated as JS) is a versatile programming language primarily used for adding interactivity, behavior, and dynamic functionality to websites. It allows developers to create interactive features such as dropdown menus, form validations, animations, and more. JavaScript runs on the client side (in web browsers), making it an essential part of web development alongside HTML and CSS.
 
     Additionally, JavaScript can be used outside of web browsers for server-side development through environments like Node.js. It supports event-driven, functional, and object-oriented programming styles, making it widely adopted for web applications, mobile apps, game development, and even desktop applications.
