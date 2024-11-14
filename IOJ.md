@@ -5,6 +5,10 @@
 
     Additionally, JavaScript can be used outside of web browsers for server-side development through environments like Node.js. It supports event-driven, functional, and object-oriented programming styles, making it widely adopted for web applications, mobile apps, game development, and even desktop applications.
 
+    computer programming language, synchronous, loosely typed language.
+    single threaded
+    interpreted language
+
 ## **History of JavaScript**
 
 ### **1995**
