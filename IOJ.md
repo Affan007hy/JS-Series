@@ -154,5 +154,3 @@ To **run JavaScript**, we can use various environments, including web browsers, 
      1. Install **VS Code** and the **Code Runner** extension (optional).
      2. Create a `.js` file.
      3. Run the code by opening a terminal and using `node filename.js` or using the Code Runner extension.
-
-    
